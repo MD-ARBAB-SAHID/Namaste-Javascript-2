@@ -1,8 +1,8 @@
 # Callbacks
 
-- Callbacks in javascript allows us to execute asynchronous task in a synchronous single threaded environment.
+- Callbacks in Javascript allows us to execute asynchronous task in a synchronous single threaded environment.
 
-- Callbacks helps us to write asynchronous code in javascript.
+- Callbacks helps us to write asynchronous code in Javascript.
 
 ## Issues with Callbacks
 
